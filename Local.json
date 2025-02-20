@@ -1,19 +1,47 @@
 {
+  "LINK": {
+    "BGMI": {
+      "gamename": "BGMI",
+      "name": "libbgmi.so",
+      "ntr": "https://t.me/+0DOyJSE9YNhhY2U1",
+      "test": "https://t.me/+0DOyJSE9YNhhY2U1",
+      "version": 1
+    }
+  },
+  "LINKS": {
+    "Links": {
+      "NTR": "https://t.me/+0DOyJSE9YNhhY2U1",
+      "apk": "BGMI APK NAME",
+      "apk_name": "mod.apk",
+      "obb": "BGMI OBB NAME",
+      "obb_name": "BGMI OBB BIT"
+    }
+  },
+  "SERVER": {
+    "Server": {
+      "@ULTRON_KING": "NTR"
+    }
+  },
+  "STATUS": {
+    "Status": {
+      "status": "SAFE",
+      "version": "VERSION 3.6.0"
+    }
+  },
+  "WARNING": {
+    "Warning": {
+      "Msg": "LOADER UPDATE",
+      "Ok": "OK",
+      "Title": "Kya "
+    }
+  },
   "aplikasi": {
     "G5": {
       "id": 0,
       "package": "com.pubg.imobile",
-      "status": "Live",
-      "title": "Battle Ground Mobile India",
-      "version": "3.6.0"
-    }
-  },
-  "loader": {
-    "BGMI": {
-      "gamename": "BGMI",
-      "name": "libbgmi.so",
-      "url": "https://github.com/ONLINE-LOADER/IMGUI-64BIT/raw/refs/heads/main/libbgmi.so",
-      "version": 1
+      "status": "STATUS : Live",
+      "title": "BATTLEGROUND MOBILE INDIA",
+      "version": "VERSION : 3.6.0"
     }
   }
 }
